@@ -1,0 +1,4 @@
+KEYTABLE="be-latin1"
+MODEL="pc105"
+LAYOUT="nl"
+KEYBOARDTYPE="pc"
