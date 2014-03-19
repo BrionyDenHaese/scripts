@@ -19,3 +19,4 @@ echo 'De SQL server wordt geïnstalleerd'
 yum install -y mysql-server
 chkconfig mysqld on
 service mysqld start
+/usr/bin/mysql_secure_installation
